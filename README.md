@@ -4,7 +4,7 @@
   - Description: CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE
 - **Log4jShell_Scanner**
   - URL: https://github.com/GoVanguard/Log4jShell_Scanner
-  - Description: Python script to tamper with pages to test for Log4J Shell vulnerability.
+  - Description: Failed to fetch description
 - **PRET**
   - URL: https://github.com/RUB-NDS/PRET
   - Description: Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
@@ -19,7 +19,7 @@
   - Description: Multi-Cloud Security Auditing Tool
 - **SecretSearcher**
   - URL: https://github.com/GoVanguard/SecretSearcher
-  - Description: Python re-implementation of the classic SecretScanner shell script
+  - Description: Failed to fetch description
 - **aws-cli**
   - URL: https://github.com/aws/aws-cli
   - Description: Universal Command Line Interface for Amazon Web Services
@@ -34,7 +34,7 @@
   - Description: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - **pentest-scripts**
   - URL: https://github.com/GoVanguard/pentest-scripts
-  - Description: List of pentest related scripts edited or created by GoVanguard
+  - Description: Failed to fetch description
 - **pimpmykali**
   - URL: https://github.com/Dewalt-arch/pimpmykali
   - Description: Kali Linux Fixes for Newly Imported VM's
@@ -46,7 +46,7 @@
   - Description: Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - **AzureSnake**
   - URL: https://github.com/GoVanguard/AzureSnake
-  - Description: A suite of PowerShell scripts to automate portions of Azure Risk Assessments and Penetration Tests
+  - Description: Failed to fetch description
 - **Mystik**
   - URL: https://github.com/GoVanguard/Mystik
   - Description: Failed to fetch description
